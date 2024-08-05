@@ -4,6 +4,6 @@ A Common Lisp client library for the Cohost API
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Shinmera/clohost.git |
-| commit  | 2f27dc0                                     |
+| commit  | d3b9156                                     |
 | systems | clohost                                     |
 |---------+---------------------------------------------|
