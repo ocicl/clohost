@@ -7,4 +7,4 @@ A Common Lisp client library for the Cohost API
 | commit  | d3b9156                                     |
 | systems | clohost                                     |
 |---------+---------------------------------------------|
-  
+   
